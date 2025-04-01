@@ -1,14 +1,5 @@
-@import url(styles/header.css);
-:root{
---cor-de-fundo: #9949b9;
---cor-cabecalho: #FFFFFF;
-}
-body{
-background-color: var(--cor-de-fundo);
-margin: 0;
-} 
-.cabecalho{
-    background-color: var(--cor-cabecalho);
+cabecalho{
+    background-color: var(--cor-do-cabecalho);
     padding: 1em;
     }
     .container{
